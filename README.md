@@ -1,6 +1,6 @@
 Projekt č.2 
 Zvolil jsem weather apku, která stahuje data ze 2 různůch Free API (OpenMeteo a WeatherAPI) 
-+ jsem přidal "DummyAPI" která je něco jako moje vlastní stacice, akorát jen generuje náhodnou teplotu od 5 do 25°C.
+Plus jsem přidal "DummyAPI" která je něco jako moje vlastní stacice, akorát jen generuje náhodnou teplotu od 5 do 25°C.
 OpenMetro funguje Free bez jakékoliv registrace.
 Ale do WeatherAPI jsem se registroval se školním mailem, kde po registraci dostanete Free klíč, který je třeba implementovat do kódu. (což jsem udělal)
 Máme tedy celkem 3 hodnoty teploty, které kód porovnává, tvoří průměr a Nejvyšší/Nejnižší teplotu.
